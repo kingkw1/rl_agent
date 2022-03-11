@@ -1,0 +1,15 @@
+aioice==0.7.5
+aiortc==1.2.0
+av==8.0.3
+cffi==1.14.5
+crc32c==2.2
+cryptography==3.4.7
+dnspython==2.1.0
+keyboard==0.13.5
+netifaces==0.11.0
+numpy==1.20.3
+opencv-python==4.5.2.54
+pycparser==2.20
+pyee==8.1.0
+pylibsrtp==0.6.8
+websockets==9.1
